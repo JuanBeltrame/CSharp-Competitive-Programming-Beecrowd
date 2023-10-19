@@ -26,7 +26,5 @@ internal class Program
 
         int sum = number1 + number2;
         Console.WriteLine("SOMA = {0}",sum);
-        
-
     }
-}
+}   
