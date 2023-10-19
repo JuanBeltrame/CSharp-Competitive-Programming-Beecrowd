@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("(Beecrowd) Beginner - 1003 - SimpleSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4daf37bbd3847246c1f9ddb991d585c656d07e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("(Beecrowd) Beginner - 1003 - SimpleSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("(Beecrowd) Beginner - 1003 - SimpleSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

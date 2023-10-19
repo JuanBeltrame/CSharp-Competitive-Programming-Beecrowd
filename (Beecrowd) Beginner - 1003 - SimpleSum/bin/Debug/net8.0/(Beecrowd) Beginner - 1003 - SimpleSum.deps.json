@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "(Beecrowd) Beginner - 1003 - SimpleSum/1.0.0": {
+        "runtime": {
+          "(Beecrowd) Beginner - 1003 - SimpleSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "(Beecrowd) Beginner - 1003 - SimpleSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

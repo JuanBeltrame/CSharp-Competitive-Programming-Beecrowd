@@ -1,0 +1,15 @@
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\obj\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\obj\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.AssemblyInfoInputs.cache
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\obj\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.AssemblyInfo.cs
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\obj\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.csproj.CoreCompileInputs.cache
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\obj\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.sourcelink.json
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\bin\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.exe
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\bin\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.deps.json
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\bin\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.runtimeconfig.json
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\bin\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.dll
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\bin\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.pdb
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\obj\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.dll
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\obj\Debug\net8.0\refint\(Beecrowd) Beginner - 1003 - SimpleSum.dll
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\obj\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.pdb
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\obj\Debug\net8.0\(Beecrowd) Beginner - 1003 - SimpleSum.genruntimeconfig.cache
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1003 - SimpleSum\obj\Debug\net8.0\ref\(Beecrowd) Beginner - 1003 - SimpleSum.dll
