@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(Beecrowd) Beginner - 1001 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(Beecrowd) Beginner - 1003 - SimpleSum", "(Beecrowd) Beginner - 1003 - SimpleSum\(Beecrowd) Beginner - 1003 - SimpleSum.csproj", "{D1B11ABC-F250-490A-8B70-00EFC1F96422}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(Beecrowd) Beginner - 1004 - Simple Product", "(Beecrowd) Beginner - 1004 - Simple Product\(Beecrowd) Beginner - 1004 - Simple Product.csproj", "{EDD71084-CB55-4695-A858-6A62BEB948D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D1B11ABC-F250-490A-8B70-00EFC1F96422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1B11ABC-F250-490A-8B70-00EFC1F96422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1B11ABC-F250-490A-8B70-00EFC1F96422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD71084-CB55-4695-A858-6A62BEB948D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD71084-CB55-4695-A858-6A62BEB948D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD71084-CB55-4695-A858-6A62BEB948D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD71084-CB55-4695-A858-6A62BEB948D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
