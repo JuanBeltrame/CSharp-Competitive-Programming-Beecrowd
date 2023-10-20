@@ -1,0 +1,15 @@
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\bin\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.exe
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\bin\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.deps.json
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\bin\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.runtimeconfig.json
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\bin\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.dll
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\bin\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.pdb
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\obj\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\obj\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.AssemblyInfoInputs.cache
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\obj\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.AssemblyInfo.cs
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\obj\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.csproj.CoreCompileInputs.cache
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\obj\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.sourcelink.json
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\obj\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.dll
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\obj\Debug\net8.0\refint\(Beecrowd) Beginner - 1059 - Even Numbers.dll
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\obj\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.pdb
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\obj\Debug\net8.0\(Beecrowd) Beginner - 1059 - Even Numbers.genruntimeconfig.cache
+E:\JuanB (Disco E)\CSharp-Competitive-Programming-Beecrowd\(Beecrowd) Beginner - 1059 - Even Numbers\obj\Debug\net8.0\ref\(Beecrowd) Beginner - 1059 - Even Numbers.dll
