@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(Beecrowd) Beginner - 1035 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(Beecrowd) Beginner - 1059 - Even Numbers", "(Beecrowd) Beginner - 1059 - Even Numbers\(Beecrowd) Beginner - 1059 - Even Numbers.csproj", "{81ABC8BD-5084-47BC-B782-1259BDD64F36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(Beecrowd) D. Structures and Libraries - 1507 - Subsequences", "(Beecrowd) D. Structures and Libraries - 1507 - Subsequences\(Beecrowd) D. Structures and Libraries - 1507 - Subsequences.csproj", "{8197915F-A73C-4790-8D14-46527C17D5E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{81ABC8BD-5084-47BC-B782-1259BDD64F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81ABC8BD-5084-47BC-B782-1259BDD64F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81ABC8BD-5084-47BC-B782-1259BDD64F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8197915F-A73C-4790-8D14-46527C17D5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8197915F-A73C-4790-8D14-46527C17D5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8197915F-A73C-4790-8D14-46527C17D5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8197915F-A73C-4790-8D14-46527C17D5E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
